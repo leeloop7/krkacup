@@ -247,7 +247,7 @@
                     <img src="/img/sepic.png" alt="Smaller Sponsor Logo" class="mx-auto h-18">
                 </div>
                 <div class="p-3 bg-white rounded-lg shadow-lg sponsor-logo">
-                    <img src="/img/sava.jpg" alt="Smaller Sponsor Logo" class="mx-auto h-18">
+                    <img src="/img/intertour.png" alt="Smaller Sponsor Logo" class="mx-auto h-18">
                 </div>
                 
                 <!-- Add more blocks as needed for each smaller sponsor -->

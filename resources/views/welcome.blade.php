@@ -167,6 +167,7 @@
                     <li>NK MIRNA</li>
                     <li>NK KOLPA</li>
                     <li>NK BELA KRAJINA</li>
+                    <li>NK DRAVINJA</li>
                 </ul>
                 <div class="mt-4 text-sm">
                     <a href="https://www.meinturnierplan.de/showit.php?id=1716552562" target="_blank" class="block font-bold text-yellow-400 transition-transform transform schedule-link hover:scale-110 hover:text-orange-500">Schedule</a>                </div>
@@ -241,11 +242,11 @@
                     <img src="/img/monm.png" alt="Smaller Sponsor Logo" class="mx-auto h-18">
                 </div>
                 <div class="p-3 bg-white rounded-lg shadow-lg sponsor-logo">
-                    <img src="/img/epic.png" alt="Smaller Sponsor Logo" class="mx-auto h-18">
+                    <img src="/img/dana.png" alt="Smaller Sponsor Logo" class="mx-auto h-18">
                 </div>
-                <div class="p-3 bg-white rounded-lg shadow-lg sponsor-logo">
+                {{-- <div class="p-3 bg-white rounded-lg shadow-lg sponsor-logo">
                     <img src="/img/sepic.png" alt="Smaller Sponsor Logo" class="mx-auto h-18">
-                </div>
+                </div> --}}
                 <div class="p-3 bg-white rounded-lg shadow-lg sponsor-logo">
                     <img src="/img/intertour.png" alt="Smaller Sponsor Logo" class="mx-auto h-18">
                 </div>

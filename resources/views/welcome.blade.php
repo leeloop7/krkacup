@@ -244,9 +244,9 @@
                 <div class="p-3 bg-white rounded-lg shadow-lg sponsor-logo">
                     <img src="/img/dana.png" alt="Smaller Sponsor Logo" class="mx-auto h-18">
                 </div>
-                {{-- <div class="p-3 bg-white rounded-lg shadow-lg sponsor-logo">
+                <div class="p-3 bg-white rounded-lg shadow-lg sponsor-logo">
                     <img src="/img/sepic.png" alt="Smaller Sponsor Logo" class="mx-auto h-18">
-                </div> --}}
+                </div>
                 <div class="p-3 bg-white rounded-lg shadow-lg sponsor-logo">
                     <img src="/img/intertour.png" alt="Smaller Sponsor Logo" class="mx-auto h-18">
                 </div>

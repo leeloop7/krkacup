@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>KRKA CUP 2024</title>
+    <title>KRKA CUP 2025</title>
     <link href="https://cdn.jsdelivr.net/npm/tailwindcss@2.0.3/dist/tailwind.min.css" rel="stylesheet">
     <link href="/css/app.css" rel="stylesheet">
     <style>

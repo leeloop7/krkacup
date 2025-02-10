@@ -36,9 +36,9 @@
         <p class="mb-2 text-2xl">7. & 8.6.2025</p>
         <p class="mb-2">Categories:</p>
         <div class="mb-4">
-            <p class="text-2xl"><strong>Saturday:</strong> U7 (2017), U8 (2016), and U9 (2015)</p>
+            <p class="text-2xl"><strong>Saturday:</strong> U7 (2018), U8 (2017), and U9 (2016)</p>
 
-            <p class="text-2xl"><strong>Sunday:</strong> U10 (2014) and U11 (2013)</p>
+            <p class="text-2xl"><strong>Sunday:</strong> U10 (2015) and U11 (2014)</p>
         </div>
         <p class="text-2xl">Novo mesto, stadion Portoval</p>
         <a target="_blank" href="https://www.google.com/maps/dir//Topli%C5%A1ka+cesta+4,+8000+Novo+mesto/@45.802781,15.1563069,17z/data=!4m18!1m8!3m7!1s0x4764ffe631ded311:0x929e3c60821d5817!2sTopli%C5%A1ka+cesta+4,+8000+Novo+mesto!3b1!8m2!3d45.8027773!4d15.1588872!16s%2Fg%2F11c4q8xjrt!4m8!1m0!1m5!1m1!1s0x4764ffe631ded311:0x929e3c60821d5817!2m2!1d15.1588872!2d45.8027773!3e2?entry=ttu" class="inline-flex items-center space-x-2 transition duration-300 ease-in-out transform hover:scale-105 hover:rotate-3 hover:text-yellow-300">
